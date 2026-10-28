@@ -1,0 +1,14 @@
+{
+  "name": "com.ta.profiling",
+  "version": "0.1.0",
+  "displayName": "TA Profiling Tools",
+  "description": "性能与渲染调试工具：Overdraw / 批次可视化、运行时性能面板。",
+  "unity": "2022.3",
+  "keywords": ["ta", "profiling", "performance", "debug", "overdraw"],
+  "dependencies": {
+    "com.ta.editorcore": "0.1.0"
+  },
+  "author": {
+    "name": "TA Tools"
+  }
+}

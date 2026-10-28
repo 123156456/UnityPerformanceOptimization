@@ -1,0 +1,12 @@
+{
+  "name": "TA.EditorCore.Editor",
+  "rootNamespace": "TA.EditorCore",
+  "references": [],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

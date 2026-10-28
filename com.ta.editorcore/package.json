@@ -1,0 +1,11 @@
+{
+  "name": "com.ta.editorcore",
+  "version": "0.1.0",
+  "displayName": "TA Editor Core",
+  "description": "TA 工具集的基础共享库：通用编辑器 UI 控件、工具窗口基类、公共工具方法。其它 TA 包依赖此包。",
+  "unity": "2022.3",
+  "keywords": ["ta", "editor", "tools"],
+  "author": {
+    "name": "TA Tools"
+  }
+}

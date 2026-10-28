@@ -1,0 +1,12 @@
+{
+  "name": "TA.Profiling.Editor",
+  "rootNamespace": "TA.Profiling.Editor",
+  "references": ["TA.Profiling.Runtime", "TA.EditorCore.Editor"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
